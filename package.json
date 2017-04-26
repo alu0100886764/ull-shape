@@ -1,0 +1,33 @@
+{
+  "name": "ull-shape",
+  "version": "1.0.0",
+  "description": "### Aceptar Tarea",
+  "main": "gulpfile.js",
+  "bin": {
+    "ull-shape": "team-area.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gulp-shell": "^0.6.3",
+    "should": "^7.1.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alu0100886764/ull-shape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alu0100886764/ull-shape/issues"
+  },
+  "homepage": "https://github.com/alu0100886764/ull-shape#readme"
+}
